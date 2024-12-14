@@ -9,11 +9,11 @@ Project Name : - food order project
 core-java-if-booking-management-project
 
 ## **Packages Structure**
--package names: com.booking.Customer.model
--package names: com.booking.DeliveryAgent.model
--package names: com.booking.Order.model
--package names: com.booking.Restaurant.model
--package names: com.booking.BookingDemoDoWhile.service
+- package names: com.booking.Customer.model
+- package names: com.booking.DeliveryAgent.model
+- package names: com.booking.Order.model
+- package names: com.booking.Restaurant.model
+- package names: com.booking.BookingDemoDoWhile.service
 
 ## **Functionality**
 1. **Customer**
