@@ -11,11 +11,12 @@ package names: com.booking.Order.model
 package names: com.booking.Restaurant.model
 package names: com.booking.BookingDemoDoWhile.service
 
-Functionality
+## **Functionality**
 Customer
 DeliveryAgent
 Order
 Restaurant
 
-POJO (Plain Old Java Objects)
-Customer - (user id, name, username,monbileNo,city,area)
+## **POJO (Plain Old Java Objects)**
+
+-Customer - (user id, name, username,monbileNo,city,area)
